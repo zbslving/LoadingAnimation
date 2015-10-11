@@ -1,3 +1,6 @@
 # BaiduLoading
 Baidu loading animation
-sample
+
+效果图
+
+![myresult](http://img.blog.csdn.net/20151011182500035)
